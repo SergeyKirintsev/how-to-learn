@@ -59,3 +59,5 @@
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
+
+@import url(../blocks/link-opacity/link-opacity.css);
