@@ -7,6 +7,6 @@
 	}
 }
 
-.rotation:hover {
-  animation: rotation 20s infinite;
+.rotation {
+  animation: rotation 20s infinite linear;
 }
